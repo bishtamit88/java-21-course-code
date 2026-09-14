@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="VectorApiDemo" type="Application" factoryName="Application">
+    <option name="VM_PARAMETERS" value="--add-modules jdk.incubator.vector" />
+    <option name="MAIN_CLASS_NAME" value="VectorApiDemo" />
+    <module name="java-21-course-code" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
